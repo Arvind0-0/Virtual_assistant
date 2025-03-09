@@ -1,0 +1,5 @@
+Test Input	                                            Expected Output
+"Set a reminder for my meeting at 5 PM"	                "set_reminder"
+"Schedule a meeting with Alex on Monday"	            "schedule_meeting"
+"What is the weather like today?"	                     "get_weather"
+"How are you?"	                                          "unknown"
