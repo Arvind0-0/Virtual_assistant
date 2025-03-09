@@ -1,0 +1,11 @@
+torch
+transformers
+scikit-learn
+flask
+streamlit
+pickleshare
+google-api-python-client
+speechrecognition
+pandas
+numpy
+jupyter
